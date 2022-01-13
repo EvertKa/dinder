@@ -1,5 +1,4 @@
 DINDER
-
   Vanainimeste Tinder. 
   
   Suhtlusportaal.
