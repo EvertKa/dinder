@@ -1,7 +1,4 @@
-DINDER
-  Vanainimeste Tinder. 
-  
-  Suhtlusportaal.
+DINDER - Vanainimeste Tinder, suhtlusportaal.
 
 
 TIIMILIIKMED
