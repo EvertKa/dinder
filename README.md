@@ -1,15 +1,7 @@
-DINDER
-  Vanainimeste Tinder. 
-  
-  Suhtlusportaal.
+DINDER - Vanainimeste Tinder, suhtlusportaal.
 
 
-TIIMILIIKMED
-  Sander-Aleks Mander,
-  Karl-Patric Rohi,
-  Kristo Tänak,
-  Mairi Zenkevics,
-  Egert Karp,
+TIIMILIIKMED - Sander-Aleks Mander, Karl-Patric Rohi, Kristo Tänak, Mairi Zenkevics, Egert Karp
 
 
 FIGMA LINK
