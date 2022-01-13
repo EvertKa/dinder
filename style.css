@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+
+.raidshadow img{
+    position: absolute;
+    height: 30%;
+    max-width: 100%;
+    display: block;
+}
+  
+
+
+.main {
+    width: 100%;
+    position: absolute;
+    height: 30%;
+    top: 30%;
+}
+
+.txt1 {
+    font-size: 5vw;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    width: auto;
+    height: 50%;
+    border-radius: 100px;
+    background-color: blueviolet;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    text-align: center;
+    padding: 10px;
+}
+.laealla {
+    text-decoration: none;
+    color: black;
+    font-size: 7vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+}
+
+.ei {
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+}
+.minecraft img{
+    position: absolute;
+    display: block;
+    bottom: 0px;
+    height: 40%;
+}
