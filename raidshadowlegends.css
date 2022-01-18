@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+
+.main {
+    width: 428px;
+    height: 926px;
+    background-color: #DCAFAF;
+}
+
+.mcrat {
+    position: absolute;
+    top:468px;
+    left: 0px;
+}
