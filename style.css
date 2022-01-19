@@ -13,6 +13,7 @@
     border-radius: 10px;
     margin-left: 10px;
     margin-top: 10px;
+    padding: 0%;
 }
 .img {
     height:70px;
@@ -45,13 +46,9 @@ h1 {
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
-}
-.textreg {
-    width: 380px;
     font-size: 40px;
-    padding-left: 20px;
-    text-decoration: none;
 }
+
 .bocc2 {
     width: 380px;
     height: 100px;
@@ -60,15 +57,7 @@ h1 {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-}
-.textlog {
-    width: 162PX;
-    height: 50px;
     font-size: 40px;
-    text-decoration: none;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 21px;
 }
 .loginshi {
     display: flex;
@@ -82,8 +71,15 @@ h1 {
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    font-size: 30px;
 }
-.emailT {
-    font-size: 50px;
-
+.passwerd {
+    width: 380px;
+    height: 100px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
 }
