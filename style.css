@@ -1,0 +1,53 @@
+.suurkast {
+    width: 428px;
+    height: 926px;
+    background-color: #F98787;
+}
+
+.suurkast {text-align: center;} 
+
+.kast1 {
+    background-color: #F85A5A;
+    color: black;
+    width: 394px;
+    height: 169px;
+    border: 3px solid black;
+    border-radius: 25px;
+    font-size: 40px;
+  }
+
+.kast2 {
+    background-color: #F85A5A;
+    color: black;
+    width: 394px;
+    height: 169px;
+    border: 3px solid black;
+    border-radius: 25px;
+    font-size: 40px;
+  }
+  .kast1 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 45px;
+    margin: 20px 10px;
+    cursor: pointer;
+  }
+  .kast2 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 45px;
+    margin: 20px 2px;
+    cursor: pointer;
+  }
+  
+  h1 {
+      color: black; font-style: italic;
+    }
