@@ -1,0 +1,113 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.start {
+    height: 926px;
+    width: 428px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0px;
+    background-color: rgba(249, 135, 135, 1);
+}
+
+.settingsico {
+    
+    width: 100px;
+    height: 100px;
+}
+.settings {
+    height: 70px;
+    width: 70px;
+    background-color:rgba(248, 90, 90, 1);
+    background-size: cover;
+    filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 0%;
+}
+.img {
+    height:70px;
+    width: 70px;;
+}
+.imgD {
+    height: 200px;
+    width: 200px;
+    margin-left: 120px;
+}
+h1 {
+    margin-top: 0px;
+}
+.textD {
+    height: 100px;
+    width: 428px;
+    font-size: 35px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.maitea {
+    display:flex;
+    flex-direction:column;
+    width: 428px;
+   
+}
+.bocc1 {
+    text-decoration: none;
+    text-align: center;
+    width: 380px;
+    height: 100px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(248, 90, 90, 1);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+    font-size: 40px;
+}
+
+.bocc2 {
+    text-decoration: none;
+    text-align: center;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+    width: 380px;
+    height: 100px;
+    background-color: rgba(248, 90, 90, 1);
+    border-radius: 10px;
+    margin-top: 20px;
+    filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
+.loginshi {
+    display: flex;
+    flex-direction: column;
+}
+.email {
+    width: 380px;
+    height: 100px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+.passwerd {
+    width: 380px;
+    height: 100px;
+    background-color: white;
+    margin-top: 20px;
+    filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
