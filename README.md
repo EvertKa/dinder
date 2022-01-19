@@ -1,4 +1,4 @@
-DINDER - Vanainimeste Tinder, suhtlusportaal.
+DINDER - Vanainimeste Dinder, suhtlusportaal.
 
 
 TIIMILIIKMED - Sander-Aleks Mander, Karl-Patric Rohi, Kristo Tänak, Airi Zenkevics, Evert Kärp
