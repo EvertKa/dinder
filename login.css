@@ -13,6 +13,10 @@
     background-color: rgba(249, 135, 135, 1);
 }
 
+.centertheshit {
+    left: 0px;
+    top: 0px;
+}
 .settingsico {
     
     width: 100px;
@@ -111,3 +115,12 @@ h1 {
     margin-right: auto;
     font-size: 30px;
 }
+
+@media (min-width:1025px) {  
+    .centertheshit{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}   

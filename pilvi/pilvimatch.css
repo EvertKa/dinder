@@ -57,3 +57,12 @@
     height: 100px;
     background-size: cover;
 }
+
+@media (min-width:1025px) {  
+    .centertheshit{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}   
